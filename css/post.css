@@ -8,6 +8,7 @@
 body {
     font-family: 'Helvetica', sans-serif;
     overflow-x: hidden;
+    line-height: 150%;
 }
 
 a {

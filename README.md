@@ -1,4 +1,4 @@
 # ursulaott.github.io
 my personal website
 
-yep i coded it from scratch, maybe that's why it's ridiculously simple
+i coded this 100% from scratch, maybe that's why it's ridiculously simple

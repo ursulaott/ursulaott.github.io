@@ -32,3 +32,23 @@ iframe {
     font-family: 'Helvetica', sans-serif;
     border:1px solid lightgrey;;
 }
+
+table,
+td {
+    border: none;
+    padding: 5px;
+}
+
+th {
+    background-color: #f5f5f5;
+    padding: 5px;
+}
+
+tr {
+    padding: 5px;
+    background-color: #f5f5f5;
+}
+
+tr:hover {
+    background-color: #ffffff;
+}

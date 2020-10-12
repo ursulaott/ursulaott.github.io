@@ -7,13 +7,14 @@ var reasons = [
     'owning a discord server\n',
     'shipping [REDACTED]\n',
     'shipping [REDACTED]\n',
-    'shipping [REDACTED]\n',
     'hating children\n',
     'leaving everyone on read\n',
     'shoplifting from walmart\n',
     'kinning bill cipher\n',
+    'endeavor thirstposting\n',
     'hating sasuke\n',
     'watching pewdiepie\n',
+    'being a catboy\n',
 ]
 
 

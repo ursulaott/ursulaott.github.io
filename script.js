@@ -16,5 +16,5 @@ var reasons = [
 function newCallout(){
     var un = window.prompt("Enter username: ");
     var rand = Math.floor(Math.random() * (reasons.length));
-    document.getElementById('calloutDisplay').innerHTML = "tumblr user @/"+ un + " is cancelled for " + reasons[rand] + "\n Stay safe. \n";
+    document.getElementById('calloutDisplay').innerHTML = "tumblr user @/"+ un + " is cancelled for " + reasons[rand] + "<br> Stay safe. <br>";
 }

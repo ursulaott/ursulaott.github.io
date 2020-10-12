@@ -5,7 +5,8 @@ var reasons = [
     'uncontrollably sexualing gamers\n',
     'gay\n',
     'owning a discord server\n',
-    'shipping [REDACTED]\n',
+    'being a mentally ill\n',
+    'not being a catboy (lame)\n',
     'shipping [REDACTED]\n',
     'hating children\n',
     'leaving everyone on read\n',
@@ -15,6 +16,7 @@ var reasons = [
     'hating sasuke\n',
     'watching pewdiepie\n',
     'being a catboy\n',
+    'unionizing the psych ward\n',
 ]
 
 

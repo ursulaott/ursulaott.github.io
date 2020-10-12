@@ -1,21 +1,21 @@
 var reasons = [
-    'having daddy issues\n',
-    'simping for incels\n',
-    'watching anime unironically\n',
-    'uncontrollably sexualing gamers\n',
-    'gay\n',
-    'owning a discord server\n',
-    'shipping [REDACTED]\n',
-    'shipping [REDACTED]\n',
-    'shipping [REDACTED]\n',
-    'being in the onceler fandom\n'
-    'hating children\n',
-    'leaving everyone on read\n',
-    'shoplifting from walmart\n',
-    'kinning bill cipher\n',
-    'hating sasuke\n',
-    'watching pewdiepie\n',
-    'shipping [REDACTED]\n',
+    'having daddy issues.\n',
+    'simping for incels.\n',
+    'watching anime unironically.\n',
+    'uncontrollably sexualing gamers.\n',
+    'gay.\n',
+    'owning a discord server.\n',
+    'shipping [REDACTED].\n',
+    'shipping [REDACTED].\n',
+    'shipping [REDACTED].\n',
+    'being in the onceler fandom.\n'
+    'hating children.\n',
+    'leaving everyone on read.\n',
+    'shoplifting from walmart.\n',
+    'kinning bill cipher.\n',
+    'hating sasuke.\n',
+    'watching pewdiepie.\n',
+    'shipping [REDACTED].\n',
 ]
 
 

@@ -4,11 +4,11 @@ var reasons = [
     'watching anime unironically\n',
     'sexualing gamers uncontrollably\n',
     'gay\n',
-    'owning a discord server\n'
-    'hating children\n'
-    'leaving everyone on read\n'
-    'shoplifting from walmart\n'
-    'kinning bill cipher\n'
+    'owning a discord server\n',
+    'hating children\n',
+    'leaving everyone on read\n',
+    'shoplifting from walmart\n',
+    'kinning bill cipher\n',
 ]
 
 

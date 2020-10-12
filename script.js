@@ -6,6 +6,9 @@ var reasons = [
     'gay\n',
     'owning a discord server\n'
     'hating children\n'
+    'leaving everyone on read\n'
+    'shoplifting from walmart\n'
+    'kinning bill cipher\n'
 ]
 
 
